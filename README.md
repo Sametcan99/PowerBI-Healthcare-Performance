@@ -78,7 +78,7 @@ Power BI: Primary tool used for dashboard development, data modeling, and visual
 
 Microsoft Excel (Implied): For initial data organization and calculations before Power BI import.
 
-🏃 How to View the Project
+# 🏃 How to View the Project
 Download: Clone this repository or download the .pbix file.
 
 Power BI Desktop: Ensure you have Power BI Desktop installed on your computer.
