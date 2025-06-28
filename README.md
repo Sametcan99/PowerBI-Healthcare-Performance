@@ -21,7 +21,7 @@ Present the evolution of costs (also in relation to revenues) and provide a deta
 
 Which are the highest costs we need to monitor for future projects? Is there a cost that negatively impacts the performance of one of the projects? If yes, which one and for which project. Provide the evolution of cost margin (costs/revenues) for the analyzed period and for each project.
 
-Beyond answering these questions, the objectives also included:
+# Beyond answering these questions, the objectives also included:
 
 To develop interactive Power BI dashboards for Revenue & Profit Analysis and Cost Analysis.
 
@@ -32,7 +32,7 @@ To analyze cost structures and efficiency across projects, identifying major cos
 To provide clear and actionable insights to evaluate project performance and support data-driven decision-making for ProCare Solutions.
 
 ⚙️ Methodology
-Our team's approach involved the following steps:
+# Our team's approach involved the following steps:
 
 Data Sourcing & Preparation: Gathering and preparing the provided case study data using Power BI's Power Query Editor. This included:
 
@@ -52,7 +52,7 @@ Data Modeling: Once the data was transformed, all necessary connections were cre
 
 KPI Generation & Analysis: Meaningful Measures were created in Power BI to answer the management's questions. This involved calculating and visualizing crucial KPIs such as profit margins (profit/revenues), cost margins (costs/revenues), and revenue per patient.
 
-Dashboard Development: Two core interactive dashboards were designed and built in Power BI's Report View:
+# Dashboard Development: Two core interactive dashboards were designed and built in Power BI's Report View:
 
 Revenue & Profit Analysis: Focused on profit margins for each project, revenue trends, and the relationship between patient numbers and revenue.
 
