@@ -3,13 +3,13 @@
 # ProCare Solutions - Financial & Cost Performance Analysis (Power BI)
 This repository contains the Power BI dashboards and supporting documentation for a case study conducted for ProCare Solutions, a UK company providing staff services to major hospitals worldwide. The project aimed to analyze key financial and cost performance metrics across various healthcare projects, providing actionable insights for data-driven decision-making to the management.
 
-📝 Project Overview
+# 📝 Project Overview
 As part of a team of Data Analysts hired by ProCare Solutions, our first task was to analyze revenue and cost data for three major US hospital clients (referred to as "projects"): Sacred Heart Hospital, Cleveland Clinic, and UCLA Medical Center, from 2020-2022. The management sought to understand project performance and validate their pricing policies and project management effectiveness.
 
 This case study focuses on empowering ProCare Solutions with clear, centralized, and fast insights into their project performance. Our team developed interactive dashboards to systematically address critical business questions related to revenue, profit, and cost structures, highlighting areas for optimization.
 
-🎯 Objectives
-# The management asked us to prepare a Profit Report that answers the following key questions:
+# 🎯 Objectives
+The management asked us to prepare a Profit Report that answers the following key questions:
 
 What are the profit margins (profit/revenues) for each project in the three-year period? Which one generated more profit margin?
 
@@ -31,8 +31,8 @@ To analyze cost structures and efficiency across projects, identifying major cos
 
 To provide clear and actionable insights to evaluate project performance and support data-driven decision-making for ProCare Solutions.
 
-⚙️ Methodology
-# Our team's approach involved the following steps:
+# ⚙️ Methodology
+Our team's approach involved the following steps:
 
 Data Sourcing & Preparation: Gathering and preparing the provided case study data using Power BI's Power Query Editor. This included:
 
@@ -62,8 +62,8 @@ The report was developed with a personal theme (sheet header, title, color palet
 
 Insight Extraction & Reporting: Systematically deriving answers to key business questions based on the insights revealed by the dashboards, presented in both the Power BI report and a short accompanying document.
 
-📈 Key Insights & Findings
-# The dashboards revealed several critical insights:
+# 📈 Key Insights & Findings
+The dashboards revealed several critical insights:
 
 Profitability: UCLA Medical Center was identified as the most profitable project due to stable and consistent profit margins across a three-year period, while Cleveland Clinic showed the worst performance by 2022.
 
@@ -73,7 +73,7 @@ Cost Efficiency: Costs increased disproportionately compared to revenues over th
 
 Key Cost Categories: External service providers were consistently identified as the biggest cost in every clinic for every year, requiring close monitoring for future projects.
 
-🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 Power BI: Primary tool used for dashboard development, data modeling, and visualization.
 
 Microsoft Excel (Implied): For initial data organization and calculations before Power BI import.
